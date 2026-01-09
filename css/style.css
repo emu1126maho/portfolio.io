@@ -651,7 +651,7 @@ summary{
     background: #cfe8e0;
     z-index: 1;
   }
-  .block-two a{
+  .block-two a,block-two4 a{
     display: inline-block;
     align-items: center;
     color: #845C42;
@@ -662,7 +662,7 @@ summary{
     font-size: 14px;
     border: solid 1px #845C42;
 }
-.block-two a:hover{
+.block-two a,block-two4 a{:hover{
     background-color: #FFD4AF;
 }
 
